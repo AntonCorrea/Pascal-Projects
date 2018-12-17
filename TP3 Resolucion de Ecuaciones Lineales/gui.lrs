@@ -1,0 +1,97 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TForm1','FORMDATA',[
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#2'y'#6'Height'#3'0'#1#3'Top'#3#180#0#5'Widt'
+  +'h'#3#139#2#7'Caption'#6#7'GUINANO'#12'ClientHeight'#3'0'#1#11'ClientWidth'#3
+  +#139#2#10'LCLVersion'#6#7'1.8.4.0'#0#6'TLabel'#7'Label17'#4'Left'#2#8#6'Heig'
+  +'ht'#2#13#3'Top'#3#176#0#5'Width'#2'!'#7'Caption'#6#7'Opci'#195#179'n'#11'Pa'
+  +'rentColor'#8#7'Visible'#8#0#0#9'TComboBox'#9'ComboBox2'#4'Left'#2'H'#6'Heig'
+  +'ht'#2#21#3'Top'#3#176#0#5'Width'#3'h'#1#10'ItemHeight'#2#13#13'Items.String'
+  +'s'#1#6#29'1_Calcular valor en un punto.'#6'&2_Dividir por un polinomio de g'
+  +'rado 1.'#6'53_Dividir por un polinomio de la forma x^2 + p*x + q.'#6')4_Det'
+  +'erminar las posibles raices enteras.'#6',5_Determinar las posibles raices r'
+  +'acionales.'#6';6_Determinar las cotas de las raices positivas y negativas.'
+  +#6'57_Raices reales por el metodo Newton para polinomios.'#6#18'8_Metodo Bai'
+  +'rstone'#0#8'OnChange'#7#15'ComboBox2Change'#8'TabOrder'#2#0#4'Text'#6#9'Com'
+  +'boBox2'#7'Visible'#8#0#0#6'TLabel'#7'Label18'#4'Left'#2#8#6'Height'#2#13#3
+  +'Top'#3#216#0#5'Width'#2'4'#7'Caption'#6#11'Valor de X:'#11'ParentColor'#8#7
+  +'Visible'#8#0#0#7'TButton'#7'Button1'#4'Left'#3#8#2#6'Height'#2#31#3'Top'#3
+  +#206#0#5'Width'#2'^'#7'Caption'#6#7'Button1'#7'OnClick'#7#12'Button1Click'#8
+  +'TabOrder'#2#1#0#0#5'TEdit'#6'Edit18'#4'Left'#3#208#0#6'Height'#2#21#3'Top'#3
+  +#216#0#5'Width'#2'x'#8'ReadOnly'#9#8'TabOrder'#2#2#4'Text'#6#6'Edit18'#7'Vis'
+  +'ible'#8#0#0#5'TEdit'#6'Edit17'#4'Left'#2'H'#6'Height'#2#21#3'Top'#3#216#0#5
+  +'Width'#2'`'#8'OnChange'#7#12'Edit17Change'#8'TabOrder'#2#3#4'Text'#6#6'Edit'
+  +'17'#7'Visible'#8#0#0#5'TEdit'#6'Edit19'#4'Left'#3#160#1#6'Height'#2#21#3'To'
+  +'p'#3#216#0#5'Width'#2'<'#8'TabOrder'#2#4#4'Text'#6#6'Edit19'#7'Visible'#8#0
+  +#0#6'TLabel'#7'Label19'#4'Left'#3#176#0#6'Height'#2#13#3'Top'#3#216#0#5'Widt'
+  +'h'#2#24#7'Caption'#6#5'P(x):'#11'ParentColor'#8#7'Visible'#8#0#0#5'TEdit'#6
+  +'Edit20'#4'Left'#3'`'#1#6'Height'#2#21#3'Top'#3#216#0#5'Width'#2'<'#8'TabOrd'
+  +'er'#2#5#4'Text'#6#6'Edit20'#7'Visible'#8#0#0#5'TEdit'#6'Edit21'#4'Left'#3'`'
+  +#1#6'Height'#2#21#3'Top'#3#248#0#5'Width'#2'<'#8'TabOrder'#2#6#4'Text'#6#6'E'
+  +'dit21'#7'Visible'#8#0#0#5'TEdit'#6'Edit22'#4'Left'#3#160#1#6'Height'#2#21#3
+  +'Top'#3#248#0#5'Width'#2'<'#8'TabOrder'#2#7#4'Text'#6#6'Edit22'#7'Visible'#8
+  +#0#0#9'TGroupBox'#9'GroupBox1'#4'Left'#2#0#6'Height'#3#160#0#3'Top'#2#0#5'Wi'
+  +'dth'#3#139#2#5'Align'#7#5'alTop'#7'Caption'#6#10'Polinomio '#12'ClientHeigh'
+  +'t'#3#142#0#11'ClientWidth'#3#135#2#8'TabOrder'#2#8#0#6'TLabel'#6'Label1'#4
+  +'Left'#2#16#6'Height'#2#13#3'Top'#2#8#5'Width'#2'!'#7'Caption'#6#6'Grado:'#11
+  +'ParentColor'#8#0#0#6'TLabel'#6'Label2'#4'Left'#2'0'#6'Height'#2#13#3'Top'#2
+  +'2'#5'Width'#2#31#7'Caption'#6#6'Label2'#11'ParentColor'#8#7'Visible'#8#0#0#6
+  +'TLabel'#6'Label3'#4'Left'#3#128#0#6'Height'#2#13#3'Top'#2'2'#5'Width'#2#31#7
+  +'Caption'#6#6'Label3'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#6'Label4'
+  +#4'Left'#3#208#0#6'Height'#2#13#3'Top'#2'2'#5'Width'#2#31#7'Caption'#6#6'Lab'
+  +'el4'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#6'Label5'#4'Left'#3' '#1#6
+  +'Height'#2#13#3'Top'#2'2'#5'Width'#2#31#7'Caption'#6#6'Label5'#11'ParentColo'
+  +'r'#8#7'Visible'#8#0#0#6'TLabel'#6'Label6'#4'Left'#3'p'#1#6'Height'#2#13#3'T'
+  +'op'#2'2'#5'Width'#2#31#7'Caption'#6#6'Label6'#11'ParentColor'#8#7'Visible'#8
+  +#0#0#6'TLabel'#6'Label7'#4'Left'#3#192#1#6'Height'#2#13#3'Top'#2'2'#5'Width'
+  +#2#31#7'Caption'#6#6'Label7'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#6
+  +'Label8'#4'Left'#3#16#2#6'Height'#2#13#3'Top'#2'2'#5'Width'#2#31#7'Caption'#6
+  +#6'Label8'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#6'Label9'#4'Left'#3
+  +'`'#2#6'Height'#2#13#3'Top'#2'2'#5'Width'#2#31#7'Caption'#6#6'Label9'#11'Par'
+  +'entColor'#8#7'Visible'#8#0#0#6'TLabel'#7'Label10'#4'Left'#2'0'#6'Height'#2
+  +#13#3'Top'#2'P'#5'Width'#2'%'#7'Caption'#6#7'Label10'#11'ParentColor'#8#7'Vi'
+  +'sible'#8#0#0#6'TLabel'#7'Label11'#4'Left'#3#128#0#6'Height'#2#13#3'Top'#2'P'
+  +#5'Width'#2'%'#7'Caption'#6#7'Label11'#11'ParentColor'#8#7'Visible'#8#0#0#6
+  +'TLabel'#7'Label12'#4'Left'#3#208#0#6'Height'#2#13#3'Top'#2'P'#5'Width'#2'%'
+  +#7'Caption'#6#7'Label12'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#7'Labe'
+  +'l13'#4'Left'#3' '#1#6'Height'#2#13#3'Top'#2'P'#5'Width'#2'%'#7'Caption'#6#7
+  +'Label13'#11'ParentColor'#8#7'Visible'#8#0#0#6'TLabel'#7'Label14'#4'Left'#3
+  +'p'#1#6'Height'#2#13#3'Top'#2'P'#5'Width'#2'%'#7'Caption'#6#7'Label14'#11'Pa'
+  +'rentColor'#8#7'Visible'#8#0#0#6'TLabel'#7'Label15'#4'Left'#3#192#1#6'Height'
+  +#2#13#3'Top'#2'P'#5'Width'#2'%'#7'Caption'#6#7'Label15'#11'ParentColor'#8#7
+  +'Visible'#8#0#0#6'TLabel'#7'Label16'#4'Left'#3#16#2#6'Height'#2#13#3'Top'#2
+  +'P'#5'Width'#2'%'#7'Caption'#6#7'Label16'#11'ParentColor'#8#7'Visible'#8#0#0
+  +#5'TEdit'#5'Edit1'#4'Left'#2#16#6'Height'#2#21#3'Top'#2'2'#5'Width'#2#30#8'T'
+  +'abOrder'#2#1#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#5'Edit2'#4'Left'#2'`'
+  +#6'Height'#2#21#3'Top'#2'2'#5'Width'#2#30#8'TabOrder'#2#2#4'Text'#6#1' '#7'V'
+  +'isible'#8#0#0#5'TEdit'#5'Edit3'#4'Left'#3#176#0#6'Height'#2#21#3'Top'#2'6'#5
+  ,'Width'#2#30#8'TabOrder'#2#3#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#5'Edit'
+  +'4'#4'Left'#3#0#1#6'Height'#2#21#3'Top'#2'2'#5'Width'#2#30#8'TabOrder'#2#4#4
+  +'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#5'Edit5'#4'Left'#3'P'#1#6'Height'#2
+  +#21#3'Top'#2'2'#5'Width'#2#30#8'TabOrder'#2#5#4'Text'#6#1' '#7'Visible'#8#0#0
+  +#5'TEdit'#5'Edit6'#4'Left'#3#160#1#6'Height'#2#21#3'Top'#2'2'#5'Width'#2#30#8
+  +'TabOrder'#2#6#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#5'Edit7'#4'Left'#3
+  +#240#1#6'Height'#2#21#3'Top'#2'2'#5'Width'#2#30#8'TabOrder'#2#7#4'Text'#6#1
+  +' '#7'Visible'#8#0#0#5'TEdit'#5'Edit8'#4'Left'#3'@'#2#6'Height'#2#21#3'Top'#2
+  +'2'#5'Width'#2#30#8'TabOrder'#2#8#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#5
+  +'Edit9'#4'Left'#2#16#6'Height'#2#21#3'Top'#2'P'#5'Width'#2#30#8'TabOrder'#2#9
+  +#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#6'Edit10'#4'Left'#2'`'#6'Height'#2
+  +#21#3'Top'#2'P'#5'Width'#2#30#8'TabOrder'#2#10#4'Text'#6#1' '#7'Visible'#8#0
+  +#0#5'TEdit'#6'Edit11'#4'Left'#3#176#0#6'Height'#2#21#3'Top'#2'P'#5'Width'#2
+  +#30#8'TabOrder'#2#11#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#6'Edit12'#4'Le'
+  +'ft'#3#0#1#6'Height'#2#21#3'Top'#2'P'#5'Width'#2#30#8'TabOrder'#2#12#4'Text'
+  +#6#1' '#7'Visible'#8#0#0#5'TEdit'#6'Edit13'#4'Left'#3'P'#1#6'Height'#2#21#3
+  +'Top'#2'P'#5'Width'#2#30#8'TabOrder'#2#13#4'Text'#6#1' '#7'Visible'#8#0#0#5
+  +'TEdit'#6'Edit14'#4'Left'#3#160#1#6'Height'#2#21#3'Top'#2'P'#5'Width'#2#30#8
+  +'TabOrder'#2#14#4'Text'#6#1' '#7'Visible'#8#0#0#5'TEdit'#6'Edit15'#4'Left'#3
+  +#240#1#6'Height'#2#21#3'Top'#2'P'#5'Width'#2#30#8'TabOrder'#2#15#4'Text'#6#1
+  +' '#7'Visible'#8#0#0#5'TEdit'#6'Edit16'#4'Left'#3'@'#2#6'Height'#2#21#3'Top'
+  +#2'P'#5'Width'#2#30#8'TabOrder'#2#16#4'Text'#6#1' '#7'Visible'#8#0#0#9'TComb'
+  +'oBox'#9'ComboBox1'#4'Left'#2'@'#6'Height'#2#21#3'Top'#2#8#5'Width'#2'>'#10
+  +'ItemHeight'#2#13#13'Items.Strings'#1#6#1'1'#6#1'2'#6#1'3'#6#1'4'#6#1'5'#6#1
+  +'6'#6#1'7'#6#1'8'#6#1'9'#6#2'10'#6#2'11'#6#2'12'#6#2'13'#6#2'14'#6#2'15'#0#8
+  +'OnChange'#7#15'ComboBox1Change'#8'TabOrder'#2#0#0#0#0#12'TPageControl'#12'P'
+  +'ageControl1'#4'Left'#2#0#6'Height'#2' '#3'Top'#3#16#1#5'Width'#3#139#2#10'A'
+  +'ctivePage'#7#9'TabSheet1'#5'Align'#7#8'alBottom'#8'TabIndex'#2#0#8'TabOrder'
+  +#2#9#0#9'TTabSheet'#9'TabSheet1'#7'Caption'#6#9'TabSheet1'#0#0#0#0
+]);
